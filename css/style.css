@@ -1,0 +1,8 @@
+.navbar-light .navbar-brand{
+  color: white !important;
+}
+
+.tinyMce button{
+  margin: auto;
+  padding: auto;
+}
